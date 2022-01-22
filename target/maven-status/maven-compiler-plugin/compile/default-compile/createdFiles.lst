@@ -1,0 +1,6 @@
+com\maixuanviet\examples\asm\CustomClassWriter$AddInterfaceAdapter.class
+com\maixuanviet\examples\asm\CustomClassWriter$AddFieldAdapter.class
+com\maixuanviet\examples\asm\CustomClassWriter.class
+com\maixuanviet\examples\asm\CustomClassWriter$PublicizeMethodAdapter.class
+com\maixuanviet\examples\asm\instrumentation\Premain$1.class
+com\maixuanviet\examples\asm\instrumentation\Premain.class
